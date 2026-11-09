@@ -15,7 +15,6 @@ Más información:
 
 [ESP32 STEAMakers](https://fgcoca.github.io/ESP32-STEAMakers/hsteamakers/), repositorio de Fede G. Coca
 
-
 Repositorio en construccion
 
 ![obrero](img/obrero.gif){.center}
