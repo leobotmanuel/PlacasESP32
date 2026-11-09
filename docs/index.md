@@ -1,18 +1,20 @@
 
-# **Programando ESP32**
+# **Programando Objetos Tecnológicos con ESP32**
 
 ![imagenCartel](img/cartel01.jpg){.center}
 
-Repositorio con recursos didácticos para la Robótica Educativa
+Repositorio con recursos didácticos para la Robótica Educativa del Club Robótica Granada de talleres de divulgación.
 
-Se basa en contenidos del Club Robótica Granada de talleres formativos para ESERO.
+La [placa de control programable ESP32](https://atigra.es/tienda/producto/placa-esp32-steamakers/) es un **recurso didáctico de aprendizaje** para la Robótica Educativa y STEAM (Ciencia, Tecnología, Ingeniería, Arte y Matemáticas), por la potencia de procesamiento (32 bits y doble núcleo), múltiples pines de E/S, conversores analógicos,... permitiendo proyectos científicos-tecnológiocos, robots seguidores de línea, evasores de obstáculos o brazos robóticos. .
 
-[Moon Camp - CRG](https://clubroboticagranada.github.io/mooncamp/index.html)
+**Conectividad inalámbrica integrada**. ESP32 incluye Wi-Fi y Bluetooth en el propio microcontrolador. Esto permite que los estudiantes creen robots controlados por el celular, mandos a distancia vía web o proyectos de IoT (Internet de las cosas) sin necesidad de añadir módulos externos.
 
-Se desarrollará la programación del robot educativo [Cutebot Pro](https://wiki.elecfreaks.com/en/microbit/microbit-smart-car/microbit-smart-cutebot-pro/) con [MicroBlocks](https://microblocks.fun/)
+**Versatilidad de programación**. Se puede programar de forma intuitiva mediante bloques visuales (ideales para primaria y secundaria), así como con C++ (Arduino IDE) o MicroPython, adaptándose a distintos niveles educativos desde secundaria hasta formación profesional.
 
-Demostración de movimienos (clikear sobre la imagen para ampliación)
-![CutebotPro](img/CutebotPro_V1.0.gif){.center}
+Más información:
+
+[ESP32 STEAMakers](https://fgcoca.github.io/ESP32-STEAMakers/hsteamakers/), repositorio de Fede G. Coca
+
 
 Repositorio en construccion
 
