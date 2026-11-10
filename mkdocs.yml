@@ -46,6 +46,8 @@ extra:
 # 4. Navegación
 nav:
   - Introducción: index.md # TODO:
+  - Hardware:
+    - Placa ESP32 y Shields: hardware/placas.md # TODO:
   #- Autor / Autores: about.md # TODO:
   #- Instalación:
   #  - Instalación: instalacion/instalacion.md # TODO:
