@@ -47,7 +47,12 @@ extra:
 nav:
   - Introducción: index.md # TODO:
   - Hardware:
-    - Placa ESP32 y Shields: hardware/placas.md # TODO:
+    - Placa ESP32: hardware/placas.md # TODO: 
+    - Shields: hardware/shields.md # TODO:
+  - Software: 
+    - IDE: software/ide.md
+    - Lenguajes: software/lenguajes.md
+    - Prog. Visual: software/progVisual.md
   #- Autor / Autores: about.md # TODO:
   #- Instalación:
   #  - Instalación: instalacion/instalacion.md # TODO:
