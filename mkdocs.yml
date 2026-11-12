@@ -11,7 +11,7 @@ edit_uri: ""
 
 # 3. Footer
 copyright: 
-  Copyright copia; 2026... Manuel Hidalgo -
+  Copyright; 2026 noviembre ... Manuel Hidalgo -
   <a href="#consent">Cambiar configuración de cookies</a>
 
 extra:
@@ -53,6 +53,10 @@ nav:
     - IDE: software/ide.md
     - Lenguajes: software/lenguajes.md
     - Prog. Visual: software/progVisual.md
+  - Sist. Control:
+    - Sistema de Control: sistemaControl/sistControl.md
+  - Programación:
+    - Programación: programacion/programacion.md
   #- Autor / Autores: about.md # TODO:
   #- Instalación:
   #  - Instalación: instalacion/instalacion.md # TODO:
