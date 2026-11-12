@@ -17,6 +17,8 @@ Información de Web comercial.
 | :---: |
 |![ACECode](../img/software/ACECode.webp)|
 
+Enlace de manuales del ![IDE ACOCode](https://github.com/leobotmanuel/PlacasESP32/tree/main/docs/software/acecode)
+
 ### <FONT COLOR=#007575>**STEAMakersBlocks**</font>
 
 | [**STEAMakersBlocks**](https://www.steamakersblocks.com/) |
