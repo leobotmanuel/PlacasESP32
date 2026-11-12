@@ -16,6 +16,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://leobotmanuel.github.io/programacion/programacion/</loc>
+         <lastmod>2026-11-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://leobotmanuel.github.io/sistemaControl/sistControl/</loc>
+         <lastmod>2026-11-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://leobotmanuel.github.io/software/ide/</loc>
          <lastmod>2026-11-12</lastmod>
          <changefreq>daily</changefreq>
