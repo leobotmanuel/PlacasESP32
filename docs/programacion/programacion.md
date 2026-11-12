@@ -6,4 +6,4 @@ En este enlace al documento pdf [**Tutorial de programación**](https://github.c
 
 ### <FONT COLOR=#007575>**Programas**</font>
 
-En este enlace [**Programas**]() se accede a los programas de las prácticas que vamos a ver en el taller.
+En este enlace [**Programas**](https://github.com/leobotmanuel/PlacasESP32/tree/main/docs/programacion/programas) se accede al repositorio de los programas de las prácticas que vamos a ver en el taller.
