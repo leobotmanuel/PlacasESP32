@@ -2,12 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://leobotmanuel.github.io/</loc>
-         <lastmod>2026-11-10</lastmod>
+         <lastmod>2026-11-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://leobotmanuel.github.io/hardware/placas/</loc>
-         <lastmod>2026-11-10</lastmod>
+         <lastmod>2026-11-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://leobotmanuel.github.io/hardware/shields/</loc>
+         <lastmod>2026-11-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://leobotmanuel.github.io/software/ide/</loc>
+         <lastmod>2026-11-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://leobotmanuel.github.io/software/lenguajes/</loc>
+         <lastmod>2026-11-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://leobotmanuel.github.io/software/progVisual/</loc>
+         <lastmod>2026-11-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
